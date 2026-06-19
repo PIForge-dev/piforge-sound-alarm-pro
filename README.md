@@ -3,7 +3,7 @@
 > Play sound alerts and visual alarms in AVEVA PI Vision (OSIsoft PI) on tag triggers and threshold violations.
 
 [![Website](https://img.shields.io/badge/Website-piforge.pages.dev-0078d4?style=for-the-badge)](https://piforge.pages.dev)
-[![Purchase](https://img.shields.io/badge/Purchase-Buy_Pro_Version-27ae60?style=for-the-badge)](https://piforge.pages.dev)
+[![Purchase](https://img.shields.io/badge/Purchase-Buy_Pro_Version-27ae60?style=for-the-badge)](https://piforge.pages.dev/product.html?id=3)
 
 ---
 
@@ -33,7 +33,7 @@ Here is a live demonstration of **PIForge Sound Alarm Pro** running in AVEVA PI 
 - **Enterprise Support**: 30-day technical support for setup and configuration.
 - **Regular Updates**: Access to future updates and compatibility fixes for new PI Vision versions.
 
-👉 **[Get the Pro Version at piforge.pages.dev](https://piforge.pages.dev)**
+👉 **[Get the Pro Version at piforge.pages.dev](https://piforge.pages.dev/product.html?id=3)**
 
 ---
 
