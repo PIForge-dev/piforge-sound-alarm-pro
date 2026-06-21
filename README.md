@@ -2,8 +2,8 @@
 
 > One symbol, three thresholds, instant visual and audio escalation
 
-[![Website](https://img.shields.io/badge/Website-piforge.pages.dev-0078d4?style=for-the-badge)](https://piforge.pages.dev)
-[![Purchase](https://img.shields.io/badge/Purchase-Buy_Pro_Version-27ae60?style=for-the-badge)](https://piforge.pages.dev/product.html?id=3)
+[![Website](https://img.shields.io/badge/Website-piforge.app-0078d4?style=for-the-badge)](https://piforge.app)
+[![Purchase](https://img.shields.io/badge/Purchase-Buy_Pro_Version-27ae60?style=for-the-badge)](https://piforge.app/product.html?id=3)
 
 ---
 
@@ -134,6 +134,6 @@ In PI Vision, go to **Help → About** to verify your version number.
 
 ---
 
-👉 **[Purchase and Download the Pro Version at piforge.pages.dev](https://piforge.pages.dev/product.html?id=3)**
+👉 **[Purchase and Download the Pro Version at piforge.app](https://piforge.app/product.html?id=3)**
 
 *PIForge is not affiliated with AVEVA Group plc or OSIsoft LLC.*
